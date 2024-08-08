@@ -6,3 +6,7 @@ src/main/resources/conf/local
 /target
 screenshots/
 /Reports
+/spring-boot
+*.class
+.project
+*.class
